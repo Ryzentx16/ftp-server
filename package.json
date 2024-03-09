@@ -9,7 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "ftp": "^0.3.10",
     "ftp-srv": "^4.6.3",
-    "nodemon": "^3.1.0"
+    "ftpd": "^0.2.16",
+    "netmask": "^2.0.2",
+    "nodemon": "^3.1.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
   }
 }
